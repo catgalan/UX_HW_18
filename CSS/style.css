@@ -1,0 +1,76 @@
+body {
+
+    background: #d4d4d4
+    margin: 50px;
+    font-family: verdana, georgia, serif;
+    font-size: 12px;
+
+    display: flex;
+    flex-direction: column;
+
+}
+
+#header {
+background-color: #9b9b9b;
+margin: 10px;
+height: 150px;
+width: 100%;
+}
+
+#navbar {
+    background-color: #9b9b9b;
+    margin: 10px;
+    height: 35px;
+    border-radius: 5px;
+    }
+
+.eCommerceboxleft{
+    background-color:rgb(236, 98, 98);
+    margin: 10px;
+    border-radius: 5px;
+    padding: 20px;
+    font-size: 105%;
+    align-items: center;
+    width: 292px;
+    height: 400px;
+    left: 0px;
+    position: relative;
+}
+
+.eCommerceboxmiddle{
+    background-color:rgb(130, 238, 153);
+    margin: 10px;
+    border-radius: 5px;
+    padding: 20px;
+    font-size: 105%;
+    align-items: center;
+    width: 292px;
+    height: 400px;
+    left: 350px;
+    position: relative;
+}
+
+.eCommerceboxright{
+    background-color:rgb(71, 116, 212);
+    margin: 10px;
+    border-radius: 5px;
+    padding: 20px;
+    font-size: 105%;
+    align-items: center;
+    width: 292px;
+    height: 400px;
+    left: 350px;
+    position: relative;
+}
+
+#footer {
+    background-color: #9b9b9b;
+    margin: 10px;
+    height: 200px;
+    width: 100%;
+    position: relative;
+    margin-top: auto;
+    }
+
+
+
